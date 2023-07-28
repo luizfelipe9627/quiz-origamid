@@ -9,7 +9,7 @@ O quiz consiste em 4 perguntas sobre React que ao final mostra quantas questões
 ### <a href="https://luizfelipe9627-quiz-origamid.netlify.app">Acesse o projeto</a>
 
 ## 📑 Observação
-Esse foi um desafio proposto para práticar sobre estado, componentização e formulário.
+Esse foi um desafio proposto para práticar sobre useState, Componentização e Formulário utilizando React.
 
 ## 🔍 Layout 
 Este layout foi criado por André Rafael no curso realizado através da Origamid.
